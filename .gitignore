@@ -1,5 +1,8 @@
+#carpeta bin
 /bin/
 
+#archivos eclipse
 .classpath
-
 .project
+
+

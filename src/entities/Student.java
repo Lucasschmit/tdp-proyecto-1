@@ -2,12 +2,12 @@ package entities;
 
 public class Student {
 	
-	private int id;
-	private String lastName;
-	private String firstName;
-	private String mail;
-	private String githubURL;
-	private String pathPhoto;
+	private int id = 0;
+	private String lastName = "";
+	private String firstName = "";
+	private String mail = "";
+	private String githubURL = "";
+	private String pathPhoto = "";
 	
 	public Student(int id, String lastName, String firstName, String mail, String githubURL, String pathPhoto) {
 		this.id =id;
